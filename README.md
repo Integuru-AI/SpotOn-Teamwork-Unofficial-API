@@ -4,10 +4,10 @@ Unofficial Python integrations for SpotOn Teamwork.
 
 ## Integrations
 
-- `spoton_teamwork_list_schedules.py` - `list_schedules` (666 live events).
-- `spoton_teamwork_get_schedule.py` - `get_schedule` (3 live events).
-- `spoton_teamwork_manage_groups.py` - `manage_groups` (1 live events).
-- `spoton_teamwork_get_day_view.py` - `get_day_view` (1 live events).
+- `spoton_teamwork_list_schedules.py` - `list_schedules`.
+- `spoton_teamwork_get_schedule.py` - `get_schedule`.
+- `spoton_teamwork_manage_groups.py` - `manage_groups`.
+- `spoton_teamwork_get_day_view.py` - `get_day_view`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
