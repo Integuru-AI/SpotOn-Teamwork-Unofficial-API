@@ -4,10 +4,10 @@ Unofficial Python integrations for SpotOn Teamwork.
 
 ## Integrations
 
-- `spoton_teamwork_list_schedules.py` - `list_schedules` (666 live events).
-- `spoton_teamwork_get_schedule.py` - `get_schedule` (3 live events).
-- `spoton_teamwork_manage_groups.py` - `manage_groups` (1 live events).
-- `spoton_teamwork_get_day_view.py` - `get_day_view` (1 live events).
+- `spoton_teamwork_list_schedules.py` - `list_schedules`.
+- `spoton_teamwork_get_schedule.py` - `get_schedule`.
+- `spoton_teamwork_manage_groups.py` - `manage_groups`.
+- `spoton_teamwork_get_day_view.py` - `get_day_view`.
 
 ## Usage
 
